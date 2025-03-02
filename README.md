@@ -1,5 +1,5 @@
 # BeatMind-AI
-<h1>"BeatMind AI – The Ultimate Smart DJ" 🎶</H1>h1>
+<h1>"BeatMind AI – The Ultimate Smart DJ" 🎶</h1>
 
 <h2>BeatMind AI is an intelligent DJ system that transforms your party experience with AI-driven song selection! It analyzes user song requests, detects crowd engagement, and plays tracks that keep the energy alive. 🎧</h2>
 
